@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Toto:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body{
+    background: #8e5d52;
+    margin: 0;
+}
+.barra1{
+    background: #352728;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+.div1 a{
+    text-decoration: none;
+    font-size: 23px;
+    padding: 10px;
+    position: relative;
+    left: 60%;
+    top: 40px;
+    color: white;
+}
+.logohtml{
+    position: absolute;
+    left: 12%;
+    top: 15px;
+    z-index: 1;
+}
+.logocss{
+    position: absolute;
+    left: 19%;
+    top: 15px;
+    z-index: 1;
+}
+.logojs{
+    position: absolute;
+    left: 26%;
+    top: 15px;
+    z-index: 1;
+}
+a:hover {
+    color: #e44d26;
+}
+.barra2{
+    height: 100px;
+    width: 100%;
+    background: #352728;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    font-family: 'Noto Serif Toto', serif;
+    color: white;
+}
+
+.logohtml1{
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    width: 130px;
+    height: 130px;
+}
+
+.logocss1{
+    position: absolute;
+    left: 650px;
+    top: 150px;
+    width: 130px;
+    height: 130px;
+}
+.logojs1{
+    position: absolute;
+    left: 800px;
+    top: 150px;
+    width: 130px;
+    height: 130px;
+}
+.js{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    top: 40%;
+    left: 30%;
+}
+.css3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    top: 40%;
+    left: 10%;
+}
+.htmlp{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        border-radius: 10px;
+        top: 40%;
+        left: 20%;
+}
+.p6{
+    position: absolute;
+    top: 23%;
+    left: 11%;
+    color: white;
+    font-size: 80px;
+    font-family: 'Itim', cursive;
+}
+.divhtml{
+    text-align: center;
+    background-color: #352728;
+    border-radius: 10px;
+    position: absolute;
+    top: 17%;
+    left: 50%;
+    right: 50%;
+    width: 550px;
+    height: 100px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Noto Serif Toto', serif;
+}
+.divcss{
+    text-align: center;
+    background-color: #352728;
+    border-radius: 10px;
+    position: absolute;
+    color: white;
+    top: 37%;
+    left: 50%;
+    right: 50%;
+    width: 550px;
+    height: 100px;
+    font-size: 25px;
+    font-family: 'Noto Serif Toto', serif;
+}
+.divjs{
+    text-align: center;
+    background-color: #352728;
+    border-radius: 10px;
+    position: absolute;
+    color: white;
+    top: 57%;
+    left: 50%;
+    right: 50%;
+    width: 550px;
+    height: 155px;
+    font-size: 25px;
+    font-family: 'Noto Serif Toto', serif;
+}
+.linkedin2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 80%;
+    border-radius: 10px;
+}
+.github{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 85%;
+    border-radius: 10px;   
+}

@@ -1,0 +1,131 @@
+@media (max-width: 425px) {
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .projetos3{
+        display: none;
+    }
+    .projetos6{
+        display: none;
+    }
+    .projetos2{
+        width: 40%;
+        height: 20%;
+        left: 55%;
+        top: 25%;
+    }
+    .projetos1{
+        width: 40%;
+        height: 20%;
+        left: 3%;
+        top: 25%;
+    }
+    .projetos4{
+        width: 40%;
+        height: 20%;
+        left: 3%;
+        
+    }
+    .projetos5{
+        width: 40%;
+        height: 20%;
+        left: 55%;
+        
+    }
+    p1{
+        position: absolute;
+        left: 29%;
+        top: 43%;
+        font-family: 'Rowdies', cursive; }
+    .barra{
+            width: 100%;
+        }
+    .barra2{
+            width: 100%;
+            top: 85%;
+        }
+    .div1 a{
+            font-size: 13px;
+            left: 40%;
+            padding: 1px
+    }
+}
+@media (min-width:426px) and (max-width: 960px) {
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        position: absolute;
+        top: 86%;
+        bottom: 14%;
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .div1 a{
+        font-size: 19px;
+        left: 34%;
+        right: 66%;
+        padding: 1px;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .projetos3{
+        display: none;
+    }
+    .projetos6{
+        display: none;
+    }
+    .projetos2{
+        width: 150px;
+        height: 150px;
+        left: 56%;
+        right: 44%;
+    }
+    .projetos1{
+        width: 150px;
+        height: 150px;
+        left: 8%;
+        right: 92%;
+    }
+    .projetos4{
+        width: 150px;
+        height: 150px;
+        left: 8%;
+        right: 92%;
+    }
+    .projetos5{
+        width: 150px;
+        height: 150px;
+        left: 56%;
+        right: 44%;
+    }
+    p1{
+        position: absolute;
+        left: 40px;
+        top: 60px;
+        font-family: 'Rowdies', cursive; }
+}

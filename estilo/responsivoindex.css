@@ -1,0 +1,101 @@
+@media (max-width:425px) {
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        top: 85%;
+    }
+    .inicio{
+        width: 90%;
+        height: 10%;
+        font-size: 18px;
+        bottom: 80%;
+        left: 7%;
+    }
+    .div1 a{
+        font-size: 13px;
+        left: 40%;
+        padding: 1px
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none; 
+    }
+    .linkedin{
+        display: none;
+    }
+    .avatar{
+        position: absolute;
+        left: 18%;
+        top: 45%;
+        width: 58.50%;
+        height: 40%;
+    }
+}
+@media (min-width:426px ) and (max-width:960px) {
+    .barra{
+        width: 100%;
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .div1 a{
+        font-size: 19px;
+        left: 34%;
+        padding: 1px
+    }
+    .inicio{
+        width: 90%;
+        height: 200px;
+        font-size: 22px;
+        top: 2%;
+        bottom: 98%;
+        left: 6%;
+        right: 94%;
+    }
+    .linkedin{
+        display: none;
+        top: 257%;
+        left: 20px;
+        width: 350px;
+        text-align: center;
+    }
+    .barra2{
+        width: 100%;
+        position: absolute;
+        top: 86%;
+        bottom: 14%;
+    }
+    .avatar{
+        top: 40%;
+        bottom: 60%;
+        left: 17%;
+        right: 83%;
+        width: 250px;
+        height: 280px;
+    }
+    .github{
+        display: none;
+    }
+    .linkedin2{
+        display: none;
+    }
+}

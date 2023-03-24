@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Toto:wght@600&display=swap');
+
+body{
+    margin: 0;
+    background-color: #8e5d52;
+}
+.barra{
+    background: #352728;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+.div1 a{
+    text-decoration: none;
+    font-size: 23px;
+    padding: 10px;
+    position: relative;
+    left: 60%;
+    top: 40px;
+    color: white;
+    z-index: 3;
+}
+.inicio{
+    position: absolute;
+    bottom: 50%;
+    left: 15%;
+    font-size: 25px;
+    color: azure;
+    width: 450px;
+    height: 250px;
+}
+.linkedin{
+    text-decoration: none;
+    font-size: 30px;
+    border: 1px #352728 solid;
+    border-radius: 50px;
+    position: absolute;
+    left: 10%;
+    align-items: center;
+    color: white;
+    padding: 15px  100px;
+    background-color: #352728;
+}
+.logohtml{
+    position: absolute;
+    left: 12%;
+    top: 15px;
+    z-index: 1;
+}
+.logocss{
+    position: absolute;
+    left: 19%;
+    top: 15px;
+    z-index: 1;
+}
+.logojs{
+    position: absolute;
+    left: 26%;
+    top: 15px;
+    z-index: 1;
+}
+.barra2{
+    height: 100px;
+    width: 100%;
+    background: #352728;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    font-family: 'Noto Serif Toto', serif;
+    color: white;
+}
+a:hover{
+    color: #e44d26;
+}
+.avatar{
+    position: absolute;
+    left: 60%;
+    top: 25%;
+}
+.linkedin2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 80%;
+    border-radius: 10px;
+}
+.github{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 85%;
+    border-radius: 10px;   
+}

@@ -1,0 +1,123 @@
+@media (min-width:426px) and (max-width:960px) {
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        position: absolute;
+        top: 86%;
+        bottom: 14%;
+    }
+    .div1 a{
+        font-size: 19px;
+        left: 34%;
+        padding: 1px
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logojs{
+        left: 17%;
+    }
+    .js{
+        display: none;
+    }
+    .css3{
+        display: none;
+    }
+    .htmlp{
+        display: none;
+    }
+    .p6{
+        display: none;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .divhtml{
+        font-size: 100%;
+        left: 3%;
+        right: 97%;
+        width: 94%;
+        height: 18%;
+    }
+    .divcss{
+        font-size: 100%;
+        left: 3%;
+        right: 97%;
+        width: 94%;
+        height: 18%;
+    }
+    .divjs{
+        font-size: 100%;
+        left: 3%;
+        right: 97%;
+        width: 94%;
+        height: 23%;
+    }
+}
+@media (max-width:425px) {
+    .js{
+        display: none;
+    }
+    .css3{
+        display: none;
+    }
+    .htmlp{
+        display: none;
+    }
+    .p6{
+        display: none;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .div1 a{
+        font-size: 13px;
+        left: 40%;
+        padding: 1px
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        top: 85%;
+    }
+    .divhtml{
+        font-size: 100%;
+        left: 2%;
+        width: 96%;
+        height: 18%;
+    }
+    .divcss{
+        font-size: 100%;
+        left: 2%;
+        width: 96%;
+        height: 18%;
+    }
+    .divjs{
+        font-size: 100%;
+        left: 2%;
+        width: 96%;
+        height: 23%;
+    }
+}

@@ -1,0 +1,145 @@
+@media (min-width: 426px) and (max-width:960px) {
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        position: absolute;
+        top: 86%;
+        bottom: 14%;
+    }
+    .avatar{
+        display: none;
+    }
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .div1 a{
+        font-size: 19px;
+        left: 34%;
+        padding: 1px
+    }
+    .sobremim{
+        left: 1%;
+        right: 99%;
+        width: 98%;
+        height: 29%;
+        top: 15%;
+        bottom: 80%;
+        font-size: 150%;
+    }
+    .linkedin{
+        top: 60%;
+        bottom: 30%;
+        text-decoration: none;
+        font-size: 30px;
+        border: 1px #352728 solid;
+        border-radius: 50px;
+        position: absolute;
+        left: 13%;
+        align-items: center;
+        color: white;
+        padding: 15px  100px;
+        background-color: #352728;
+     }
+     .github1{
+        top: 72%;
+        bottom: 18%;
+        text-decoration: none;
+        font-size: 30px;
+        border: 1px #352728 solid;
+        border-radius: 50px;
+        position: absolute;
+        left: 14%;
+        align-items: center;
+        color: white;
+        padding: 15px  100px;
+        background-color: #352728;
+     }
+}
+@media (min-width:960px) {
+    .linkedin{
+        display: none;
+    }
+}
+@media (max-width:425px) {
+    .linkedin2{
+        display: none;
+    }
+    .github{
+        display: none;
+    }
+    .avatar{
+        display: none;
+    }
+    .div1 a{
+        font-size: 13px;
+        left: 40%;
+        padding: 1px
+    }
+    .barra{
+        width: 100%;
+    }
+    .barra2{
+        width: 100%;
+        top: 85%;
+    }
+    .sobremim{
+        font-size: 18px;
+        top: 20%;
+        left: 2%;
+        width: 96%;
+        height: 30%;
+    }
+    .logojs{
+        left: 17%
+    }
+    .logocss{
+        left: 10%;
+    }
+    .logohtml{
+        left: 2%;
+    }
+    .linkedin{
+        top: 60%;
+        bottom: 30%;
+        text-decoration: none;
+        font-size: 22px;
+        border: 1px #352728 solid;
+        border-radius: 50px;
+        position: absolute;
+        left: 10%;
+        right: 10%;
+        align-items: center;
+        color: white;
+        padding: 4%  29%;
+        background-color: #352728;
+     }
+     .github1{
+        top: 72%;
+        bottom: 18%;
+        text-decoration: none;
+        font-size: 22px;
+        border: 1px #352728 solid;
+        border-radius: 50px;
+        position: absolute;
+        left: 10%;
+        right: 10%;
+        align-items: center;
+        color: white;
+        padding: 4%  30%;
+        background-color: #352728;
+     }
+}

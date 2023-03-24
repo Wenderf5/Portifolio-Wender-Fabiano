@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Toto:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+body{
+    background: #8e5d52;
+    margin: 0;
+}
+.barra1{
+    background: #352728;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+.div1 a{
+    text-decoration: none;
+    font-size: 23px;
+    padding: 10px;
+    position: relative;
+    left: 60%;
+    top: 40px;
+    color: white;
+}
+.logohtml{
+    position: absolute;
+    left: 12%;
+    top: 15px;
+    z-index: 1;
+}
+.logocss{
+    position: absolute;
+    left: 19%;
+    top: 15px;
+    z-index: 1;
+}
+.logojs{
+    position: absolute;
+    left: 26%;
+    top: 15px;
+    z-index: 1;
+}
+a:hover {
+    color: #e44d26;
+}
+.barra2{
+    height: 100px;
+    width: 100%;
+    background: #352728;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    font-family: 'Noto Serif Toto', serif;
+    color: white;
+}
+.projetos1{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 20%;
+    bottom: 80%;
+    left: 8%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+.projetos2{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 20%;
+    bottom: 80%;
+    left: 40%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+.projetos3{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 20%;
+    bottom: 80%;
+    left: 75%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+.projetos4{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 55%;
+    bottom: 45%;
+    left: 8%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+.projetos5{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 55%;
+    bottom: 45%;
+    left: 40%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+.projetos6{
+    width: 270px;
+    height: 150px;
+    background: #c4c4c4;
+    position: absolute;
+    top: 55%;
+    bottom: 45%;
+    left: 75%;
+    border: 2px black solid;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Noto Serif Toto', serif;
+}
+p1{
+    position: absolute;
+    left: 95px;
+    top: 60px;
+    font-family: 'Rowdies', cursive;
+}
+.linkedin2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 80%;
+    border-radius: 10px;
+}
+.github{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 90%;
+    left: 85%;
+    border-radius: 10px;
+}
